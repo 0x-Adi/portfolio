@@ -107,11 +107,6 @@ No dependencies. No npm install. No build step. Just open and go. ✅
 
 ---
 
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
----
 
 <div align="center">
 
