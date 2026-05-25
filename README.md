@@ -72,7 +72,7 @@
 
 ```
 portfolio/
-├── index.html       ← Main portfolio (all-in-one)
+├── index.html       ← Main portfolio
 ├── profile.jpeg     ← Profile photo
 ├── resume.pdf       ← Downloadable resume
 └── README.md        ← You are here
@@ -85,10 +85,6 @@ portfolio/
 ```bash
 # Clone the repo
 git clone https://github.com/0x-Adi/portfolio.git
-
-# Open in browser
-cd portfolio
-open index.html
 ```
 No dependencies. No npm install. No build step. Just open and go. ✅
 
